@@ -1,6 +1,6 @@
 # Hi, I'm J K Rana 👋
 
-Hardware & Network Engineer | BPO Founder | Full Stack Developer | Web & App Development Learner | Data Science, Machine Learning & AI Enthusiast | Cybersecurity Learner
+BPO Founder | Hardware & Network Engineer |  Full Stack Developer | Web & App Development Learner | Data Science, Machine Learning & AI Enthusiast | Cybersecurity Learner
 
 I am the Founder of Pauline BPO Solutions Pvt. Ltd. I work on business outsourcing, lead generation, website development, business automation, hardware networking, cybersecurity learning, crypto mining setup consulting, and digital business systems.
 
